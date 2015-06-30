@@ -1,5 +1,5 @@
 # OpenStack-icehouse
-This script is one of OpenStack Controller node base on icehouse version
+This script is one of OpenStack Controller node base on icehouse version,and this script is for CentOS6.x env
 
 # Use
 chmod +x install.sh
