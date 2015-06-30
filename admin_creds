@@ -1,0 +1,4 @@
+export OS_USERNAME=admin	#replace admin
+export OS_PASSWORD=123456	#replace 123456
+export OS_TENANT_NAME=admin	#replace admin
+export OS_AUTH_URL=http://CONTROLLER:35357/v2.0	#replace CONTROLLER
